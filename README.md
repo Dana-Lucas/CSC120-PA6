@@ -7,5 +7,3 @@ Isaac Newton holding a basket. As the buttons are clicked, the
 apples move down the screen and the task is to capture them in
 the basket. If more than 3 apples reach the ground, then the game
 is over.
- 
- 
